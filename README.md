@@ -1,0 +1,2 @@
+# SDI
+Our Project "SDI" - Skin Disease Identifier is based on Machine Learning trained with CNN (Neural Network) which solves the problem of visiting to doctors for skin checkup , anyone , irrespective of gender, age, and color can pass the image of effected part of skin  to our code and can get the best results among the melanoma,nevus and seborrheic keratosis skin diseases. It does not require any features to pass on , which makes it user friendly. It effectively gives the accurate results (~=70%). It is useful for the household women and rural area people.
